@@ -16,9 +16,9 @@ module.exports = {
                 text: 'TEAM GitHub Doc',
                 items: [
                     { text: 'Github 连怡恒', link: 'https://github.com/SugarHeartEgg' },
-                    { text: 'Github 吴月琴', link: 'https://github.com/SugarHeartEgg' },
-                    { text: 'Github 焦自强', link: 'https://github.com/SugarHeartEgg' },
-                    { text: 'Github 罗鑫', link: 'https://github.com/SugarHeartEgg' },
+                    { text: 'Github 吴月琴', link: '' },
+                    { text: 'Github 焦自强', link: '' },
+                    { text: 'Github 罗鑫', link: '' },
                 ]
             }
         ],
