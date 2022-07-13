@@ -66,7 +66,23 @@ module.exports = {
                     { title: "个人信息", path: "/PEOPLE-LuoXin/demo" },
                     { title: "敬请期待", path: "/PEOPLE-LuoXin/2022/July/2022-07-13" },
                 ],
-            }
+            },
+            {
+                title: "组件文档",
+                path: '/doc-components/public',
+                collapsable: false, // 不折叠
+                children: [
+                    { title: "公共组件", path: "/doc-components/public" },
+                ]
+            },
+            {
+                title: "方法文档",
+                path: '/doc-utils/public',
+                collapsable: false, // 不折叠
+                children: [
+                    { title: "公共方法", path: "/doc-utils/public" },
+                ]
+            },
         ]
     }
 }
