@@ -38,6 +38,7 @@ module.exports = {
                 children: [
                     { title: "个人信息", path: "/PEOPLE-LianYiHeng/demo" },
                     { title: "技术选型？", path: "/PEOPLE-LianYiHeng/2022/July/2022-07-13" },
+                    { title: "Ts的使用!", path: "/PEOPLE-LianYiHeng/2022/September/2022-09-27" },
                 ],
             },
             {
