@@ -40,6 +40,7 @@ module.exports = {
                     { title: "技术选型？", path: "/PEOPLE-LianYiHeng/2022/July/2022-07-13" },
                     { title: "Ts的使用!", path: "/PEOPLE-LianYiHeng/2022/September/2022-09-27" },
                     { title: "数据埋点", path: "/PEOPLE-LianYiHeng/2022/202212/doc" },
+                    { title: "ng跨域配置", path: "/PEOPLE-LianYiHeng/2023/ng" },
                 ],
             },
             {
